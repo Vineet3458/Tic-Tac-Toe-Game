@@ -38,5 +38,4 @@ The game allows two players to take turns placing their marks (`X` and `O`) on a
 ### Option 1: Clone and Run Locally
 
 ```bash
-git clone https://github.com/Vineet3458/Tic-Tac-Toe Game.git
-cd Tic-Tac-Toe Game
+git clone https://github.com/Vineet3458/Tic-Tac-Toe-Game.git
